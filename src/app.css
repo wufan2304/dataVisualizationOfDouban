@@ -1,0 +1,21 @@
+/* @import '~antd/dist/antd.css'; */
+
+.App {}
+
+.headerStyle {
+    text-align: center;
+    color: #fff;
+    font-size: 24px;
+}
+.footerStyle{
+    text-align: center;
+    color: #aaa;
+    font-size: 16px;
+}
+.BubbleContainer {
+    padding: 20px;
+}
+
+.PosterContainer {
+    padding: 20px;
+}
